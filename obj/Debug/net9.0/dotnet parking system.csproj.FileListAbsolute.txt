@@ -1,0 +1,14 @@
+/Users/yuda/HOME/enigma camp/test/dotnet parking system/bin/Debug/net9.0/dotnet parking system
+/Users/yuda/HOME/enigma camp/test/dotnet parking system/bin/Debug/net9.0/dotnet parking system.deps.json
+/Users/yuda/HOME/enigma camp/test/dotnet parking system/bin/Debug/net9.0/dotnet parking system.runtimeconfig.json
+/Users/yuda/HOME/enigma camp/test/dotnet parking system/bin/Debug/net9.0/dotnet parking system.dll
+/Users/yuda/HOME/enigma camp/test/dotnet parking system/bin/Debug/net9.0/dotnet parking system.pdb
+/Users/yuda/HOME/enigma camp/test/dotnet parking system/obj/Debug/net9.0/dotnet parking system.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yuda/HOME/enigma camp/test/dotnet parking system/obj/Debug/net9.0/dotnet parking system.AssemblyInfoInputs.cache
+/Users/yuda/HOME/enigma camp/test/dotnet parking system/obj/Debug/net9.0/dotnet parking system.AssemblyInfo.cs
+/Users/yuda/HOME/enigma camp/test/dotnet parking system/obj/Debug/net9.0/dotnet parking system.csproj.CoreCompileInputs.cache
+/Users/yuda/HOME/enigma camp/test/dotnet parking system/obj/Debug/net9.0/dotnet parking system.dll
+/Users/yuda/HOME/enigma camp/test/dotnet parking system/obj/Debug/net9.0/refint/dotnet parking system.dll
+/Users/yuda/HOME/enigma camp/test/dotnet parking system/obj/Debug/net9.0/dotnet parking system.pdb
+/Users/yuda/HOME/enigma camp/test/dotnet parking system/obj/Debug/net9.0/dotnet parking system.genruntimeconfig.cache
+/Users/yuda/HOME/enigma camp/test/dotnet parking system/obj/Debug/net9.0/ref/dotnet parking system.dll
