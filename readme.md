@@ -206,24 +206,3 @@ Slot No. | Type  | Registration No. | Colour
 1        | Mobil | B-1234-XYZ       | Putih
 3        | Mobil | D-0001-HIJ       | Hitam
 ```
-
-## Tests
-Unit tests for the parking lot and parking service are implemented in the ParkingSystem.Tests folder.
-
-To run the tests, use the following command:
-
-```bash
-dotnet test
-```
-
-## Contributing
-If you want to contribute to this project, feel free to fork the repository and submit pull requests. Please ensure that you write unit tests for any new features or bug fixes.
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-### Perbaikan:
-- Menghapus duplikasi bagian `Parking System` yang ada dua kali.
-- Memastikan bahwa seluruh instruksi dan penggunaan konsisten tanpa pengulangan.
-
-Sekarang, `README.md` Anda siap digunakan tanpa masalah duplikasi.
